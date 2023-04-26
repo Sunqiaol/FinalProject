@@ -96,9 +96,13 @@ namespace FinalProject.Controllers
                 }
                 else
                 {
+                    response.StatusCode = 400;
+                    response.statusDescription = "Bad Request";
+                    return response;
                     throw;
                 }
             }
+            return response;
         }
 
         // POST: api/Restaurants

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hLCThuD1Bj4yk5uOlFv5XvVEW+3xBTJ5U3MIW2iyl1e1IgqAY/X/tiuAR2iXDPwaEtpIbBenqxSook8znxvl+Q==",
+  "dgSpecHash": "iMvkE/pMOYXTYH3Qu1H0Ttqyyngfgw3UgoHR4slAcS9DRkX4CR7jRrjNfl6OmRVHhuB9lHpeItT8du2YX13PCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sqlin\\Desktop\\College\\CSCI39537\\Test\\FinalProject\\FinalProject\\FinalProject.csproj",
+  "projectFilePath": "C:\\Users\\sqlin\\Desktop\\College\\CSCI39537\\FinalProject\\FinalProject\\FinalProject\\FinalProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sqlin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sqlin\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

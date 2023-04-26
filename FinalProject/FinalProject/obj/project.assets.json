@@ -10415,11 +10415,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sqlin\\Desktop\\College\\CSCI39537\\Test\\FinalProject\\FinalProject\\FinalProject.csproj",
+      "projectUniqueName": "C:\\Users\\sqlin\\Desktop\\College\\CSCI39537\\FinalProject\\FinalProject\\FinalProject\\FinalProject.csproj",
       "projectName": "FinalProject",
-      "projectPath": "C:\\Users\\sqlin\\Desktop\\College\\CSCI39537\\Test\\FinalProject\\FinalProject\\FinalProject.csproj",
+      "projectPath": "C:\\Users\\sqlin\\Desktop\\College\\CSCI39537\\FinalProject\\FinalProject\\FinalProject\\FinalProject.csproj",
       "packagesPath": "C:\\Users\\sqlin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sqlin\\Desktop\\College\\CSCI39537\\Test\\FinalProject\\FinalProject\\obj\\",
+      "outputPath": "C:\\Users\\sqlin\\Desktop\\College\\CSCI39537\\FinalProject\\FinalProject\\FinalProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sqlin\\AppData\\Roaming\\NuGet\\NuGet.Config",
